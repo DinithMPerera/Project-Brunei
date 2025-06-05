@@ -11,7 +11,7 @@ This repository contains a sample of a Power BI dashboard created for a business
 - **Client:** Confidential (Brunei-based)
 - **Role:** Power BI Developer
 - **Tools Used:** Power BI, Excel, Power Query
-- **Duration:** March 2025 – May 2025
+- **Duration:** April 2025 – May 2025
 - **Type:** Remote, self-employed contract
 
 ## Features
